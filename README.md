@@ -278,6 +278,11 @@ web-service   NodePort    10.107.136.54   <none>        3000:30001/TCP   4m38s
 
 - We see the home page. You can add to-do's.
 
+
+https://github.com/AhmetBasari/kubernetes-06-microservice-deployment-and-autoscaling/blob/main/Todowebsite.png
+
+
+
 ### Deploy the second aplication
 
 - Create a `php-apache` directory and change directory.
