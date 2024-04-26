@@ -746,6 +746,11 @@ $ kubectl get hpa
 $ kubectl get deployment
 ```
 
+### Connection Points
+
+![Hands-on Kubernetes-06](kubernetes-microservice.png)
+
+
 # References: 
 https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/
 
